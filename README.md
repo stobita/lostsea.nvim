@@ -1,0 +1,1 @@
+# lostsea.nvim
