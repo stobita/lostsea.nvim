@@ -1,7 +1,7 @@
 local M = {}
 local palette = require("lostsea.palette")
 
-function M.setup()
+function M.load()
 	vim.g.colors_name = "lostsea"
 
 	local groups = {
