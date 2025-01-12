@@ -1,1 +1,1 @@
-lua require('lostsea').setup()
+lua require('lostsea').load()
