@@ -9,6 +9,7 @@ function M.load()
 		Normal = {},
 		Function = { fg = palette.colors.lostseaGreen },
 		Keyword = { fg = palette.colors.lostseaGreen },
+		String = { fg = palette.colors.lostseaGreen },
 	}
 
 	for group, settings in pairs(groups) do
