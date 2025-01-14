@@ -13,6 +13,7 @@ function M.load()
 		Conditional = { fg = palette.colors.lostseaGreen },
 		Label = { fg = palette.colors.lostseaGreen },
 		Constant = { fg = palette.colors.lostseaGreen },
+		xmlTag = { fg = palette.colors.lostseaGreen },
 	}
 
 	for group, settings in pairs(groups) do
