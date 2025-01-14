@@ -8,6 +8,7 @@ function M.load()
 	local groups = {
 		Normal = {},
 		Function = { fg = palette.colors.lostseaGreen },
+		Keyword = { fg = palette.colors.lostseaGreen },
 	}
 
 	for group, settings in pairs(groups) do
